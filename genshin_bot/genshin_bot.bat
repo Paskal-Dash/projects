@@ -1,0 +1,1 @@
+python ./genshin_bot.pyw
